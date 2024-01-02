@@ -1,0 +1,259 @@
+
+
+*::selection{
+    background: var(--yellow);
+    color: #333;
+
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+ 
+    outline: none;border: none;
+    transition: all .2s linear;
+}
+
+html{
+    font-size: 63%;
+    overflow-x: hidden;
+}
+
+body{
+    background:#ffffff;
+    overflow-x: hidden;
+    /*padding-left: 10rem;*/
+}
+section{
+    min-height: 400vh;
+    max-width: 100%;
+    padding: 1rem;
+}
+.heading{
+    text-align: center;
+    margin: 0 90px;
+    font-size: 35px;
+    padding: 1rem;
+    border-bottom: .1rem solid black;
+    color: #fff;
+
+}
+.heading span{
+    color: black;
+}
+
+
+.activities .lang{
+    color: #333;
+    text-align: center;
+    /*padding: 4rem;
+    margin: 0 6rem;*/
+    padding-top: 20px;
+}
+.activities .container1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+
+}
+.activities .container1 .box{
+    height: 25rem;
+    width: 25rem;
+    object-fit: cover;
+    border-radius: 2rem;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+
+
+}
+.activities .container1 .box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.activities .container1 .box:hover img{
+    transform: scale(1.2);
+}
+.activities .container2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+
+}
+.activities .container2 .box{
+    height: 25rem;
+    width: 25rem;
+    border-radius: 2rem;
+    border-color: #222;
+    border-width: 0.1cm;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+
+
+}
+.activities .container2 .box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.activities .container2 .box:hover img{
+    transform: scale(1.2);
+}
+.activities .container3{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+
+}
+.activities .container3 .box{
+    height: 25rem;
+    width: 25rem;
+    border-radius: 2rem;
+    border-color: #222;
+    border-width: 0.1cm;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+
+
+}
+.activities .container3 .box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.activities .container3 .box:hover img{
+    transform: scale(1.2);
+}
+
+.activities .container4{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+
+}
+.activities .container4 .box{
+    height: 25rem;
+    width: 25rem;
+    border-radius: 2rem;
+    border-color: #222;
+    border-width: 0.1cm;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+
+
+}
+.activities .container4 .box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.activities .container4 .box:hover img{
+    transform: scale(1.2);
+}
+
+.activities .container5{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+
+}
+.activities .container5 .box{
+    height: 25rem;
+    width: 25rem;
+    border-radius: 2rem;
+    border-color: #222;
+    border-width: 0.1cm;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+
+
+}
+.activities .container5 .box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.activities .container5 .box:hover img{
+    transform: scale(1.2);
+}
+
+.activities .container6{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+
+}
+.activities .container6 .box{
+    height: 25rem;
+    width: 25rem;
+    border-radius: 2rem;
+    border-color: #222;
+    border-width: 0.1cm;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+
+
+}
+.activities .container6 .box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.activities .container6 .box:hover img{
+    transform: scale(1.2);
+}
+
+.activities .container7{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+
+}
+.activities .container7 .box{
+    height: 25rem;
+    width: 25rem;
+    border-radius: 2rem;
+    border-color: #222;
+    border-width: 0.1cm;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+
+
+}
+.activities .container7 .box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.activities .container7 .box:hover img{
+    transform: scale(1.2);
+}
